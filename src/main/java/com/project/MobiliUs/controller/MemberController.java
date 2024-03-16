@@ -1,8 +1,8 @@
 package com.project.MobiliUs.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.graduation.MobiliUs.security.MemberDetailsImpl;
-import com.graduation.MobiliUs.service.MemberService;
+import com.project.MobiliUs.security.MemberDetailsImpl;
+import com.project.MobiliUs.service.MemberService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.MediaType;

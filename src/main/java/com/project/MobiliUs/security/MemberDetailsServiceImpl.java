@@ -1,7 +1,7 @@
 package com.project.MobiliUs.security;
 
-import com.graduation.MobiliUs.entity.Member;
-import com.graduation.MobiliUs.repository.MemberRepository;
+import com.project.MobiliUs.entity.Member;
+import com.project.MobiliUs.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
